@@ -1,16 +1,8 @@
 # Cookbook
 
-Flutter application.
+Welcome to Cookbook! Our goal is to connect the age of social media with cooking by creating a social media integrated recipes app. Join our community of home cook chefs and start cooking and sharing recipes with the world.
 
-## Getting Started
+## Flutter
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This is a flutter project. For more information on understanding the code feel free to visit the developer website here
+--> https://flutter.dev.com
