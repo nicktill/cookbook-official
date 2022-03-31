@@ -5,4 +5,4 @@ Welcome to Cookbook! Our goal is to connect the age of social media with cooking
 ## Author
 ## Nicholas Tillmann
 ## Cookbook© 2020
-All Rights Reserved
+All Rights Reserved.

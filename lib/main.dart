@@ -1,6 +1,7 @@
 import 'package:cookbook/screens/LoginSignupDecision.dart';
 import 'package:flutter/material.dart';
 
+//setting head
 void main() => runApp(App());
 
 class App extends StatelessWidget {
@@ -10,6 +11,7 @@ class App extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Cook Book',
       home: LoginSignupDecision(),
+      // 
     );
   }
 }
